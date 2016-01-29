@@ -10,11 +10,14 @@
   font-family:'Futura';
 }
 
+hr {
+  width: 500px;
+}
+
 
 .fotos img {
   width: 200px;
   margin: 20px;
-
 }
 
 .fotos img:hover {
