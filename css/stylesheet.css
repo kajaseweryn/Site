@@ -1,0 +1,42 @@
+.header {
+  border: 0px black solid;
+  width: 240px;
+  margin-left: 540px;
+  margin-top: 200px;
+}
+
+.header h1 {
+  text-align: center;
+  font-family:'Futura';
+}
+
+
+.fotos img {
+  width: 200px;
+  margin: 20px;
+
+}
+
+.fotos img:hover {
+  -o-transition: all 0.6s;
+-moz-transition: all 0.6s;
+-webkit-transition: all 0.6s;
+-moz-transform: scale(1.1);
+-o-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+}
+
+.fotos {
+  border: 0px black solid;
+  margin-left: 300px;
+  width: 740px;
+}
+
+.square {
+  border: 0px black solid;
+  display: inline-block;
+}
+
+.content {
+  border: 0px black solid;
+}
