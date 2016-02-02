@@ -1,8 +1,9 @@
 .header {
   border: 0px black solid;
-  width: 240px;
-  margin-left: 590px;
-  margin-top: 100px;
+  width: 220px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 60px;
 }
 
 .header h1 {
@@ -35,7 +36,8 @@ hr {
 
 .fotos {
   border: 0px black solid;
-  margin-left: 330px;
+  margin-left: auto;
+  margin-right: auto;
   width: 740px;
 }
 
@@ -43,7 +45,8 @@ hr {
   font-size: 12px;
   width: 500px;
   text-align: center;
-  margin-left: 460px;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
@@ -57,9 +60,88 @@ hr {
 }
 
 .logo p {
-  font-family: 'Futura'
+  font-family: 'Futura';
+  text-align: center;
+
 }
 
-.logo {
-  margin-left: 700px;
+.backbutton img {
+  width: 14px;
+}
+
+.backbutton {
+  border: 0px black solid;
+  width: 22px;
+}
+
+.top {
+  display: inline-block;
+  border: 0px black solid;
+}
+
+.titleandback {
+  border: 0px black solid;
+  width: 248px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.info img {
+  width: 150px;
+}
+
+.info p {
+  font-size: 13px;
+  text-align: justify;
+}
+
+.cv {
+  width: 330px;
+}
+
+.c1 {
+  display: inline-block;
+  vertical-align: top;
+  border: 0px black solid;
+  margin-left: 10px;
+  margin-bottom: 10px;
+
+}
+
+.info {
+  border: 0px black solid;
+  width: 510px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.social img {
+  width: 35;
+}
+
+.mail {
+  margin-left: 2px;
+}
+
+.insta {
+  margin-left: 2px;
+  margin-right: 4px;
+}
+
+.socialin {
+  border: 0px black solid;
+  width: 117px;
+  float: right;
+}
+
+.social {
+  border: 0px black solid;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.social1 {
+  display: inline-block;
 }
